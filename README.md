@@ -7,7 +7,7 @@ In the Fast-Moving Consumer Goods (FMCG) sector, retail managers struggle to qua
 
 ## Team Members
 * **Mayur Dobariya**     -  Team Lead
-* **Tejas Mahajan **     -  Member
+* **Tejas Mahajan**     -  Member
 * **Neha Gandhare**      -  Member
 * **Mayuresh Kurlapkar** -  Member
 
